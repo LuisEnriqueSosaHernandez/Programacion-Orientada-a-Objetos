@@ -1,0 +1,19 @@
+mezcla de modos(durante las operaciones los resultados debe ser almacenados en el espacio necesario)
+Reglas:
+operaciones entre DATOS MISMO TIPO, el resultado requiere ser almacenado en el tipo de dato siguiente espacio 
+operaciones entre datos de difeente tipo, el resultado sera almacenado en tipo de dato mayor de los involucrados
+nota: en division entre enteros, el tipo de dato es entero pero puede existir un error.
+
+Mismo tipo de datos
+
+char    char   = short
+int     int    = float
+short   short  = int
+float   float  = double
+double  double = double
+
+
+Diferente tipos de datos
+char vs "short" ="".
+char vs int ="".
+siempre gana el mayor.

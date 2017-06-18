@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1427952433 source:a:\users\luisenrique\documents\universidad\segundo semestre\poo\c nivel medio\raya\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1428023254 source:a:\users\luisenrique\documents\universidad\segundo semestre\poo\c nivel medio\juegosencillos\raya\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+

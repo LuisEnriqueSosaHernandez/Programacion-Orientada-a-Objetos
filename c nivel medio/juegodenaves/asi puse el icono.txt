@@ -1,0 +1,9 @@
+También lo es que añadas un archivo de recursos a tu proyecto.
+ Por ejemplo, pongamos que tienes una directorio en tu proyecto donde están 
+los recursos que se añadadirán al ejecutable llamada extras, allí pones el icono 
+que quieras, por ejemplo ElIcono.ico, y en lugar de hacer lo anterior, 
+lo que harás es pulsar en el Menú Archivo - Nuevo - Recurso con lo que se añadirá un nuevo archivo 
+a tu proyecto con la extesión .rc pon el sigueinte contenido en él. 
+Y cuando crees el ejecutable, este ya tendrá la imagen.
+
+A ICON MOVEABLE PURE LOADONCALL DISCARDABLE "extras/ElIcono.ico"

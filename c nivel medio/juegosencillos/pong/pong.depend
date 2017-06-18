@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1428023171 source:a:\users\luisenrique\documents\universidad\segundo semestre\poo\c nivel medio\pong\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1428024260 source:a:\users\luisenrique\documents\universidad\segundo semestre\poo\c nivel medio\juegosencillos\pong\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1423505480 source:a:\users\luisenrique\documents\universidad\segundo semestre\poo\c\imss\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

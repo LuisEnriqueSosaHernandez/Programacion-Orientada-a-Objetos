@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1428276168 source:a:\users\luisenrique\documents\universidad\segundo semestre\poo\c nivel medio\juegodenaves\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<list>
+
+1427944239 source:a:\users\luisenrique\documents\universidad\segundo semestre\poo\c nivel medio\juegodenaves\icono.rc
+
+1427944239 source:c:\users\samsung\documents\universidad\segundo semestre\poo\c nivel medio\juegodenaves\icono.rc
+
+1428272568 source:c:\users\samsung\documents\universidad\segundo semestre\poo\c nivel medio\juegodenaves\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<list>
+
+1427958640 source:c:\users\pc\documents\universidad\segundo semestre\poo\c nivel medio\juegodenaves\icono.rc
+
+1428290570 source:c:\users\pc\documents\universidad\segundo semestre\poo\c nivel medio\juegodenaves\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<list>
+

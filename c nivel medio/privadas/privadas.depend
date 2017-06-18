@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1427850159 source:a:\users\luisenrique\documents\universidad\segundo semestre\poo\c nivel medio\privadas\graficos.c
+	"graficos.h"
+
+1427850619 a:\users\luisenrique\documents\universidad\segundo semestre\poo\c nivel medio\privadas\graficos.h
+	<stdio.h>
+
+1427850240 source:a:\users\luisenrique\documents\universidad\segundo semestre\poo\c nivel medio\privadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graficos.h"
+

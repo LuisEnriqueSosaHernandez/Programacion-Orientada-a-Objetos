@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1428043451 source:a:\users\luisenrique\documents\universidad\segundo semestre\poo\c nivel medio\juegosencillos\snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+

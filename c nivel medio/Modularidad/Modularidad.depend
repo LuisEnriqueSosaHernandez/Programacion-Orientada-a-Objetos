@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1427776757 source:a:\users\luisenrique\documents\universidad\segundo semestre\poo\c nivel medio\modularidad\main.c
+	<stdio.h>
+	"prueba.h"
+
+1427776757 a:\users\luisenrique\documents\universidad\segundo semestre\poo\c nivel medio\modularidad\prueba.h
+
+1427776785 source:a:\users\luisenrique\documents\universidad\segundo semestre\poo\c nivel medio\modularidad\prueba.c
+	"prueba.h"
+

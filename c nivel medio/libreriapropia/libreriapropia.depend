@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1427848900 source:a:\users\luisenrique\documents\universidad\segundo semestre\poo\c nivel medio\libreriapropia\lib.c
+	"lib.h"
+
+1427849463 a:\users\luisenrique\documents\universidad\segundo semestre\poo\c nivel medio\libreriapropia\lib.h
+	<stdio.h>
+
+1427849018 source:a:\users\luisenrique\documents\universidad\segundo semestre\poo\c nivel medio\libreriapropia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
